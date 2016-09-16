@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/Generic.h</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/lcd.h</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/lcd.c</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/main.c</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/nbproject/Makefile-default.mk</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/interrupt.h</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/config.h</file>
+            <file>file:/D:/ECE372/ECE372Labs-master/Lab1/Lab1P2_I2C/timer.h</file>
+        </group>
+    </open-files>
+</project-private>
